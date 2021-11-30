@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React and Next js
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( Spanish, , Portugués , English )
+- ⚡ Fun fact: I speak 3 languages ( Spanish, Portugués , English )
 
 
 ### Talk with me, I am kinda awesome:
