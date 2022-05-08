@@ -4,7 +4,6 @@
 
 
 ## I'm a engineering student, developer and graphic artist 
-- 🔭 I’m currently working on personal projects and Educational art at @conecoder_ 🐇
 - 🌱 I’m currently learning React and Next js
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
