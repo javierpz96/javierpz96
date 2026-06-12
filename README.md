@@ -1,42 +1,28 @@
-# Hi, I'm Javier 👋
+¡Hola! 👋 Soy Javier Peña
 
-Frontend & Mobile Developer from Argentina 🇦🇷
+Desarrollador Frontend & Mobile de Buenos Aires, Argentina 🇦🇷
 
-I build web and mobile applications using:
+Me especializo en el desarrollo de aplicaciones web y móviles utilizando tecnologías modernas del ecosistema JavaScript y TypeScript.
+
+Tecnologías
 
 ⚛️ React
 ▲ Next.js
 📱 React Native
 🚀 Expo
 🔷 TypeScript
+🟢 Node.js
 🗄️ Supabase
 🌿 MongoDB
 🎨 Tailwind CSS
 
-## Featured Projects
+Sobre mí
+💻 Desarrollo aplicaciones web y móviles
+🚀 Me apasiona crear interfaces modernas y funcionales
+📚 Siempre aprendiendo nuevas tecnologías
+🤝 Abierto a nuevas oportunidades y colaboraciones
+Contacto
 
-### 🐾 Mascoteca
-Mobile application to share photos and albums of pets.
+💼 LinkedIn: linkedin.com/in/javierpz
 
-Tech:
-React Native • Expo • TypeScript • Supabase
-
-### 🎬 Memo App
-Save movies and series to watch later.
-
-Tech:
-React • Node.js • MongoDB
-
-### 💡 Wax App
-Control panel with dynamic content and Supabase backend.
-
-Tech:
-Next.js • Supabase • TypeScript
-
-## Contact
-
-LinkedIn:
-linkedin.com/in/javierpz
-
-Email:
-javpeniaz@gmail.com
+📍 Buenos Aires, Argentina
